@@ -15,11 +15,8 @@ Data Analysis & Visualization: Used Power BI to create interactive charts, KPIs,
 Dashboard Development: Designed summary and detailed views, integrating filtering options for granular analysis.
 
 ## 4. Dashboard Image
-   
-
-
-
-
+  ![Dashboard_Img_1 (1)](https://github.com/user-attachments/assets/b5c6b9ba-4619-486d-a4f2-84463afee357)
+  ![Dashboard_Img_1 (2)](https://github.com/user-attachments/assets/f6f73057-0f18-426d-b0ff-14457ee37936)
 
 ## 5. Project Insights
 The latest patient waitlist shows an increase to 709K compared to 640K in the previous period, indicating a rise in demand for healthcare services.
